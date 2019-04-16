@@ -3,6 +3,8 @@ package com.example.p01_dailygoals;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 public class Summary extends AppCompatActivity {
@@ -25,5 +27,17 @@ public class Summary extends AppCompatActivity {
         tVResult2.setText(summary[1]);
         tVResult3.setText(summary[2]);
         tVResult4.setText(summary[3]);
+
+
+        Button button = findViewById(R.id.back);
+
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent j = new Intent(Summary.this,MainActivity.class);
+
+                startActivity(j);
+            }
+        });
     }
 }

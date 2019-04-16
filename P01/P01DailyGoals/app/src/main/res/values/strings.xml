@@ -8,4 +8,5 @@
     <string name="question3">Attempt the problem myself</string>
     <string name="question4">My personal reflection today</string>
     <string name="btn">OK</string>
+    <string name="button2">BACK</string>
 </resources>

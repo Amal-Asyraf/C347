@@ -15,6 +15,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/question1"
+            android:layout_gravity="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
 
         <TextView
@@ -28,6 +29,7 @@
             android:id="@+id/RG1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:checkedButton="@+id/radioButton"
             android:orientation="horizontal">
 
             <RadioButton
@@ -63,6 +65,7 @@
             android:id="@+id/RG2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:checkedButton="@+id/radioButton3"
             android:orientation="horizontal">
 
             <RadioButton
@@ -98,6 +101,7 @@
             android:id="@+id/RG3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:checkedButton="@+id/radioButton5"
             android:orientation="horizontal">
 
             <RadioButton
