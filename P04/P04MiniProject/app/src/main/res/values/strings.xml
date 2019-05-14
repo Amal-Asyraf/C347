@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P04MiniProject</string>
+    <string name="prompt1">Revision Note</string>
+    <string name="prompt2">Stars</string>
+    <string name="btnPrompt1">Insert</string>
+    <string name="btnPrompt2">Show List</string>
+</resources>
