@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KnowYourAmal</string>
+    <string name="readLater">Read Later</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fact1">This girl is yukino she is my No.1 Waifu.\n\n Yukino is smart and beautiful who comes from a wealthy family, but she has a tendency to be blunt and often points out faults in other people where normally it would be very hard to do so. Yukino believes that it is the duty of the "exceptional" (a.k.a. herself) to help the less fortunate. She also has a very cold and unfriendly demeanor and is called the "Ice Queen".\n\nYukino loves the character Pan-san (The doll she is holding) to the extent of having an in-depth knowledge of the item and a year passport for the place where the item is usually bought.</string>
+    <string name="changeColor">Change Color</string>
+    <string name="fact2">I am someone who used to oversee my National Cadet Corps (NCC) unit in my secondary school and acheived the highest rank possible during my time.\n\nMy experience there as a senior made me able to think logically and I feel made me able to do programming. Also to adapt to situations more quickly.</string>
+    <string name="fact3">I am actually a very shy person who does not like to talk to people unless absolutely necessary.\n\nI changed because an old friend of mine told me that was one of my biggest flaws.\n\n In some ways more than one she was right.</string>
+</resources>
